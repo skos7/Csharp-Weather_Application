@@ -1,0 +1,14 @@
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.csproj.AssemblyReference.cache
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.Form1.resources
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.Properties.Resources.resources
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.csproj.GenerateResource.cache
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.csproj.CoreCompileInputs.cache
+D:\Programiranje_C#\Weather_Application\bin\Debug\Weather_Application.exe.config
+D:\Programiranje_C#\Weather_Application\bin\Debug\Weather_Application.exe
+D:\Programiranje_C#\Weather_Application\bin\Debug\Weather_Application.pdb
+D:\Programiranje_C#\Weather_Application\bin\Debug\Newtonsoft.Json.dll
+D:\Programiranje_C#\Weather_Application\bin\Debug\Newtonsoft.Json.xml
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.csproj.CopyComplete
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.exe
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.pdb
+D:\Programiranje_C#\Weather_Application\obj\Debug\Weather_Application.ForecastUC.resources
